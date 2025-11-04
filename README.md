@@ -1,0 +1,2 @@
+# DeppLearningFinalProject_FruitTypeAndFreshnessClassification
+A CNN models with kaggle dataset
